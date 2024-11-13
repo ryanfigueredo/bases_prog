@@ -1,0 +1,4 @@
+C:/Users/ryanf/CLionProjects/bases-prog-ryan/cmake-build-debug/CMakeFiles/calculadora.dir
+C:/Users/ryanf/CLionProjects/bases-prog-ryan/cmake-build-debug/CMakeFiles/numero_primo.dir
+C:/Users/ryanf/CLionProjects/bases-prog-ryan/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ryanf/CLionProjects/bases-prog-ryan/cmake-build-debug/CMakeFiles/rebuild_cache.dir

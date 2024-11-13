@@ -1,0 +1,9 @@
+# ninja log v6
+31	332	7530056950029410	CMakeFiles/bases_prog_ryan.dir/main.c.obj	d5229f53cf5c69f0
+2	291	7532072962715414	build.ninja	aecc561a211e29e1
+333	621	7530056953051002	bases_prog_ryan.exe	be88e883744ce6dd
+2	79	7530059822669591	CMakeFiles/numero_primo.dir/main2.c.obj	ed067fc338fbc91f
+9	108	7530059259714891	CMakeFiles/calculadora.dir/main2.c.obj	c6d5e55f2ebc5116
+2	104	7530059259639761	CMakeFiles/calculadora.dir/main.c.obj	d5776fc3f1fd8208
+22	129	7530059396799229	calculadora.exe	82418dc55d142992
+79	180	7530059823436111	numero_primo.exe	876f50b7526a69aa
